@@ -1,0 +1,44 @@
+[ 3scale-cli ] Loading Swagger Petstore27 swagger definition. 
+[ 3scale-cli ] Service with id 2555417748101 created on 3scale 
+[ 3scale-cli ] Hits metric with id 2555418057933 found on 3scale 
+[ 3scale-cli ] Method v2_pet_POST with system_name v2_pet_POST created on 3scale. 
+[ 3scale-cli ] Method v2_pet_PUT with system_name v2_pet_PUT created on 3scale. 
+[ 3scale-cli ] Method v2_pet_findByStatus_GET with system_name v2_pet_findByStatus_GET created on 3scale. 
+[ 3scale-cli ] Method v2_pet_findByTags_GET with system_name v2_pet_findByTags_GET created on 3scale. 
+[ 3scale-cli ] Method v2_pet__petId__GET with system_name v2_pet__petId__GET created on 3scale. 
+[ 3scale-cli ] Method v2_pet__petId__POST with system_name v2_pet__petId__POST created on 3scale. 
+[ 3scale-cli ] Method v2_pet__petId__DELETE with system_name v2_pet__petId__DELETE created on 3scale. 
+[ 3scale-cli ] Method v2_pet__petId__uploadImage_POST with system_name v2_pet__petId__uploadImage_POST created on 3scale. 
+[ 3scale-cli ] Method v2_store_inventory_GET with system_name v2_store_inventory_GET created on 3scale. 
+[ 3scale-cli ] Method v2_store_order_POST with system_name v2_store_order_POST created on 3scale. 
+[ 3scale-cli ] Method v2_store_order__orderId__GET with system_name v2_store_order__orderId__GET created on 3scale. 
+[ 3scale-cli ] Method v2_store_order__orderId__DELETE with system_name v2_store_order__orderId__DELETE created on 3scale. 
+[ 3scale-cli ] Method v2_user_POST with system_name v2_user_POST created on 3scale. 
+[ 3scale-cli ] Method v2_user_createWithArray_POST with system_name v2_user_createWithArray_POST created on 3scale. 
+[ 3scale-cli ] Method v2_user_createWithList_POST with system_name v2_user_createWithList_POST created on 3scale. 
+[ 3scale-cli ] Method v2_user_login_GET with system_name v2_user_login_GET created on 3scale. 
+[ 3scale-cli ] Method v2_user_logout_GET with system_name v2_user_logout_GET created on 3scale. 
+[ 3scale-cli ] Method v2_user__username__GET with system_name v2_user__username__GET created on 3scale. 
+[ 3scale-cli ] Method v2_user__username__PUT with system_name v2_user__username__PUT created on 3scale. 
+[ 3scale-cli ] Method v2_user__username__DELETE with system_name v2_user__username__DELETE created on 3scale. 
+[ 3scale-cli ] Mapping rule 246044 for pattern /v2/pet created on 3scale. 
+[ 3scale-cli ] Mapping rule 246045 for pattern /v2/pet created on 3scale. 
+[ 3scale-cli ] Mapping rule 246046 for pattern /v2/pet/findByStatus created on 3scale. 
+[ 3scale-cli ] Mapping rule 246047 for pattern /v2/pet/findByTags created on 3scale. 
+[ 3scale-cli ] Mapping rule 246048 for pattern /v2/pet/{petId} created on 3scale. 
+[ 3scale-cli ] Mapping rule 246049 for pattern /v2/pet/{petId} created on 3scale. 
+[ 3scale-cli ] Mapping rule 246050 for pattern /v2/pet/{petId} created on 3scale. 
+[ 3scale-cli ] Mapping rule 246051 for pattern /v2/pet/{petId}/uploadImage created on 3scale. 
+[ 3scale-cli ] Mapping rule 246052 for pattern /v2/store/inventory created on 3scale. 
+[ 3scale-cli ] Mapping rule 246053 for pattern /v2/store/order created on 3scale. 
+[ 3scale-cli ] Mapping rule 246054 for pattern /v2/store/order/{orderId} created on 3scale. 
+[ 3scale-cli ] Mapping rule 246055 for pattern /v2/store/order/{orderId} created on 3scale. 
+[ 3scale-cli ] Mapping rule 246056 for pattern /v2/user created on 3scale. 
+[ 3scale-cli ] Mapping rule 246057 for pattern /v2/user/createWithArray created on 3scale. 
+[ 3scale-cli ] Mapping rule 246058 for pattern /v2/user/createWithList created on 3scale. 
+[ 3scale-cli ] Mapping rule 246059 for pattern /v2/user/login created on 3scale. 
+[ 3scale-cli ] Mapping rule 246060 for pattern /v2/user/logout created on 3scale. 
+[ 3scale-cli ] Mapping rule 246061 for pattern /v2/user/{username} created on 3scale. 
+[ 3scale-cli ] Mapping rule 246062 for pattern /v2/user/{username} created on 3scale. 
+[ 3scale-cli ] Mapping rule 246063 for pattern /v2/user/{username} created on 3scale. 
+[3scale-cli] Import on 3scale complete
