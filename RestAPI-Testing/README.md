@@ -1,8 +1,3 @@
-
-Demo is part of a course on 
-REST API Design, Development & Management
-http://acloudfan.com/learn-REST-API
-
 Demo#1
 ======
 walmart.js
